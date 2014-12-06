@@ -30,6 +30,5 @@ Params
 			==>By default it is false
 
 Message from Amine
-i really appreciate you buying this it will make me motivated to make more interesting 'things'
 i am not taking any credit for the Sample it's made by html5up
 i made the adblockerdetected image, you may use it if you want

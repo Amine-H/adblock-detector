@@ -54,7 +54,7 @@
 		            style: 'position:absolute;z-index:-9999;top:-9999;left:-9999;'
 		        });
 		$('body').append(bait);
-		setTimeout(check,1000);
+		check();
 		return this;
 	}
 })(jQuery)
