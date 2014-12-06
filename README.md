@@ -2,6 +2,9 @@ AdblockDetector
 	-- a jQuery plugin to detect adblocker and act somehow by showing a message in the screen
 	or defining your own function
 
+	Author: Amine Hakkou
+	github: https://github.com/Amine-H
+
 Usage
 	-- add this piece of code in the header part of your website
 	<script src="adblockdetector.js"></script>

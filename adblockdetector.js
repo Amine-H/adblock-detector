@@ -1,3 +1,7 @@
+/**
+	Author: Amine Hakkou
+	github: https://github.com/Amine-H
+**/
 (function($)
 {
 	$.AdblockDetector = function(params)
